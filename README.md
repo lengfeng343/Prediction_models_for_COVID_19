@@ -1,14 +1,12 @@
 # Prediction_models_for_COVID_19
 
 
-## Transportability of prediction models for COVID-19: An across hospital data analytics
+## Validation and refinement of two interpretable models for COVID-19 prognosis prediction
 
 This codebase contains python implementation of the paper:
 
-> Transportability of prediction models for COVID-19: An across hospital data analytics.
-> @author.
-> @published.
-> [[Paper]]()
+> Validation and refinement of two interpretable models for COVID-19 prognosis prediction
+> @author:Kai Chang#, Ting Jia#, Yana Zhou#, Zixin Shu#, Chaoan Peng, Xugui Li, Qiguang Zheng, Haoyu Tian, Jianan Xia, Kuo Yang, Ning Wang, Jifen Liu, Jing Sun, Hailong Sun, Xinyan Wang, Jinghui Ji, Dengying Yan, Qunsheng Zou, Taane G. Clark, Baoyan Liu*, Xiaodong Li*, Yonghong Peng*, Xuezhong Zhou*
 
 
 ### Running a model
@@ -35,9 +33,6 @@ The codebase is implemented in Python 3.6.5. Required packages are:
 
 If you found this codebase useful, please cite:
 
-    @inproceedings{balazevic2019tucker,
-    title={Transportability of prediction models for COVID-19: An across hospital data analytics},
-    author={},
-    booktitle={},
+    title={Validation and refinement of two interpretable models for COVID-19 prognosis prediction},
+    author={Kai Chang#, Ting Jia#, Yana Zhou#, Zixin Shu#, Chaoan Peng, Xugui Li, Qiguang Zheng, Haoyu Tian, Jianan Xia, Kuo Yang, Ning Wang, Jifen Liu, Jing Sun, Hailong Sun, Xinyan Wang, Jinghui Ji, Dengying Yan, Qunsheng Zou, Taane G. Clark, Baoyan Liu*, Xiaodong Li*, Yonghong Peng*, Xuezhong Zhou*},
     year={2020}
-    }
